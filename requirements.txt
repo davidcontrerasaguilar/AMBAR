@@ -1,0 +1,7 @@
+numpy~=1.24.3
+pandas~=2.0.3
+tqdm~=4.66.1
+cornac~=1.18.0
+tensorflow~=2.13.0
+torch~=2.1.2
+mip~=1.15.0
