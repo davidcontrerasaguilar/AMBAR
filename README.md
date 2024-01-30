@@ -2,7 +2,7 @@
 
 A new fairness Dataset
 
-## How to
+## How to reproduce the experiments
 
 These notebooks were tested using Python 3.8. A virtual environment is highly recommended.
 
