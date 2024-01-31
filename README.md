@@ -10,6 +10,8 @@ track_id, artist_id, duration, styles (i.e., the style of music), and category_s
 - artists_info.csv. This file contains artists’ information. The attributes in this file are artist_id, gender, country, continent, styles (i.e., the style of music), and category_styles (i.e., music style categories).
 - ratings.csv. This file contains the users’ music preferences represented by a rating. In particular, the attributes in each tuple are user_id, track_id, and rating.
 
+The full dataset is found in data/BRecSys
+
 ## How to reproduce the experiments
 
 These notebooks were tested using Python 3.8. A virtual environment is highly recommended.
