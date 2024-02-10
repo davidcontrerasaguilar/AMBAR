@@ -51,4 +51,6 @@ The data for this script is separated and based on the full set. This data may b
 
 ## PFair
 
-TODO
+For running PFair on the data provided, use the notebook PFair_multiclass.ipynb. The main process is found in the process
+section.
+The data for this script is separated and based on the full set. This data may be found in data/PFair.
