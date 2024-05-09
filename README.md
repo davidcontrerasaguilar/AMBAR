@@ -1,6 +1,6 @@
-# BrecSys
+# AMBAR
 
-Our dataset consists of 3,317,428 ratings from around 31,013 users for 443.921 songs and 27,531 artists. The BRecSys dataset contains
+Our dataset consists of 3,317,428 ratings from around 31,013 users for 443.921 songs and 27,531 artists. The AMBAR dataset contains
 four files described in depth in the following paragraphs.
 
 - user_info.csv. This file contains specific users’ information depicted by the attributes user_id (i.e., the dataset index),
@@ -10,7 +10,7 @@ track_id, artist_id, duration, styles (i.e., the style of music), and category_s
 - artists_info.csv. This file contains artists’ information. The attributes in this file are artist_id, gender, country, continent, styles (i.e., the style of music), and category_styles (i.e., music style categories).
 - ratings.csv. This file contains the users’ music preferences represented by a rating. In particular, the attributes in each tuple are user_id, track_id, and rating.
 
-The full dataset is found in data/BRecSys
+The full dataset is found in data/AMBAR
 
 ## How to reproduce the experiments
 
@@ -41,7 +41,7 @@ requirements.txt).
 ## Cornac
 
 For running cornac on the data provided, use the notebook Cornac.ipynb where the process is explained. Some variables
-were provided so it can be adapted to other use cases. The data used for this script is found in data/BRecSys.
+were provided so it can be adapted to other use cases. The data used for this script is found in data/AMBAR.
 
 ## PyCPFair
 
