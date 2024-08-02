@@ -202,7 +202,7 @@ artist_id,gender,country,styles,category_styles,continent
 286,female,United States,pop,Pop,North America
 287,undefined,United States,rock|emo,Rock,North America
 288,undefined,United States,rock,Rock,North America
-291,cisgender female,United States,pop,Pop,North America
+291,female,United States,pop,Pop,North America
 292,undefined,Canada,experimental|folk,Rock,North America
 293,undefined,United States,folk,Rock,North America
 294,female,United States,pop,Pop,North America
@@ -4472,7 +4472,7 @@ artist_id,gender,country,styles,category_styles,continent
 8762,male,Italy,pop,Pop,Europe
 8764,male,Turkey,pop,Pop,Asia
 8767,undefined,Italy,pop,Pop,Europe
-8774,male organism,Germany,folk|medieval,Rock|Classic,Europe
+8774,male,Germany,folk|medieval,Rock|Classic,Europe
 8776,undefined,United States,folk,Rock,North America
 8777,undefined,Norway,neofolk|folk,Rock|Folk,Europe
 8779,undefined,Sweden,folk|medieval,Rock|Classic,Europe
@@ -5039,7 +5039,7 @@ artist_id,gender,country,styles,category_styles,continent
 10030,female,United States,country|pop|rock,Rock|Country|Pop,North America
 10034,undefined,United States,pop,Pop,North America
 10040,male,United States,country|pop|rock,Rock|Country|Pop,North America
-10043,male organism,United States,country|pop,Country|Pop,North America
+10043,male,United States,country|pop,Country|Pop,North America
 10044,undefined,United States,rap,Rap/hip-hop,North America
 10048,male,United States,rap,Rap/hip-hop,North America
 10058,undefined,United States,electronic|dubstep,Electronic/dance,North America
@@ -11756,7 +11756,7 @@ artist_id,gender,country,styles,category_styles,continent
 28348,undefined,United States,soul,Soul/funk,North America
 28351,male,Georgia,soul|rap,Rap/hip-hop|Soul/funk,Asia
 28358,male,United States,beats,Electronic/dance,North America
-28359,male organism,United States,rap,Rap/hip-hop,North America
+28359,male,United States,rap,Rap/hip-hop,North America
 28362,male,United States,rap,Rap/hip-hop,North America
 28363,female,United States,rap,Rap/hip-hop,North America
 28364,undefined,Serbia,rock,Rock,Europe
@@ -14112,7 +14112,7 @@ artist_id,gender,country,styles,category_styles,continent
 36526,male,United States,country|folk,Rock|Country,North America
 36527,undefined,United Kingdom,experimental,Rock,Europe
 36535,undefined,United States,rap,Rap/hip-hop,North America
-36581,male organism,Sweden,electronic,Electronic/dance,Europe
+36581,male,Sweden,electronic,Electronic/dance,Europe
 36585,undefined,Japan,jazz|funk,Jazz|Soul/funk,Asia
 36589,male,United States,rap,Rap/hip-hop,North America
 36596,undefined,Germany,metal,Heavy metal,Europe
@@ -23382,7 +23382,7 @@ artist_id,gender,country,styles,category_styles,continent
 91266,undefined,United States,punk|ska|reggae,Rock|Alternative,North America
 91270,undefined,Spain,ska|punk,Rock,Europe
 91271,undefined,France,punk,Rock,Europe
-91273,male organism,Germany,ska|punk,Rock,Europe
+91273,male,Germany,ska|punk,Rock,Europe
 91275,undefined,Australia,ska|reggae,Rock|Alternative,Oceania
 91281,undefined,United States,punk|funk|ska,Rock|Soul/funk,North America
 91282,undefined,South Korea,hardcore,Rock,Asia
